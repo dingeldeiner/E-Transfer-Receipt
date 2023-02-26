@@ -17,3 +17,6 @@ This automation has three parts:
   - Go to extensions > apps script and open the apps script
   - In the editor, update RECEIPT_FILE_ID and DATA_FILE_ID to the google drive ID of your receipt template and AUTORECEIPT sheet
   - Go to the triggers tab and create a time-driven trigger that runs 'mainFunction()' every minute
+4. In your copy of the 'Receipt' google sheet, update the template with your info
+  - Upload a logo if you want
+  - If you want to really change up the template, make sure you update the cell references in the apps script
