@@ -1,4 +1,4 @@
-# interac-e-transfer-auto-receipt
+# E-Transfer-Receipt
 Automated Professional Receipts for Interac E-Transfers
 
 ## Overview
